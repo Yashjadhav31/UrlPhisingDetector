@@ -1,4 +1,0 @@
- UrlPhisingDetector 
-"# UrlPhisingDetector"
-url detector
-
